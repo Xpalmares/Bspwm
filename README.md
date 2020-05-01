@@ -1,6 +1,6 @@
-#bspwmrc 
+# BSPWM 
 
-### Necessário ter Instalado os seguintes apps!
+## Necessário ter Instalado os seguintes apps!
 
 ```
 compton
@@ -18,4 +18,4 @@ dunst
 polybar
 
 ```
-![Screenshot](screenshot.png)
+![meu desktop Void-BSPWM](https://github.com/Xpalmares/bspwm/blob/master/wall.png)
